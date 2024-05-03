@@ -1,0 +1,90 @@
+[
+        {
+                "border_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "fill_color": [
+                        233, 
+                        61, 
+                        149
+                ], 
+                "interp_type": 1, 
+                "name": "Pink", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 102.1321243523316, 
+                                "trace_number": 13.85
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 159.26943005181346, 
+                                "trace_number": 15.07
+                        }
+                ]
+        }, 
+        {
+                "border_color": [
+                        0, 
+                        0, 
+                        0
+                ], 
+                "fill_color": [
+                        0, 
+                        147, 
+                        101
+                ], 
+                "interp_type": 1, 
+                "name": "Green", 
+                "observations": [
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 101.09326424870466, 
+                                "trace_number": 30.989999999999998
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 103.17098445595855, 
+                                "trace_number": 38.950000000000003
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 102.1321243523316, 
+                                "trace_number": 47.93
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 111.48186528497411, 
+                                "trace_number": 106.09
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 110.44300518134716, 
+                                "trace_number": 82.879999999999995
+                        }, 
+                        {
+                                "ele": null, 
+                                "lat": null, 
+                                "long": null, 
+                                "sample_number": 102.1321243523316, 
+                                "trace_number": 90.939999999999998
+                        }
+                ]
+        }
+]

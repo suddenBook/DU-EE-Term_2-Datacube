@@ -1,0 +1,9 @@
+Tool,Interpretation,GPR Line,Position (m),Depth (m),Velocity,GPS-Easting (None),GPS-Northing (None),Latitude,Longitude,GPS-Elevation,Comment
+Point,Green,Lineset/line1,3.00,0.80,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Green,Lineset/line1,3.80,0.84,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Green,Lineset/line1,4.69,0.82,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Green,Lineset/line1,8.19,0.99,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Green,Lineset/line1,8.99,0.82,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Green,Lineset/line1,10.51,1.01,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Pink,Lineset/line1,1.29,0.82,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
+Point,Pink,Lineset/line1,1.41,1.98,Moist Soil (0.1 m/ns),N/A,N/A,N/A,N/A,N/A,
