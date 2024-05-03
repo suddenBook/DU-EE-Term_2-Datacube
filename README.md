@@ -41,6 +41,6 @@ The 3D interactive visualization allows for exploration of the datacube in a mor
 
 ### Poster
 
-![Poster Presentation](./Poster.pdf)
+![Poster Presentation](Report/Poster.jpg)
 
 A poster was created to present the findings of this project. The poster provides an overview of the datacube construction process, including the dimensions used, the workflow and the benefits of the datacube approach. The poster also highlights the key results, limitations and potential improvements of the project.
